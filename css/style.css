@@ -1,0 +1,18 @@
+body {
+    display: grid;
+    gap: 10px;
+    background: linear-gradient(to right, #21496b, white);
+    color: #21496b;
+    
+}
+.area {
+    background: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+}
+nav a:hover {
+    color: white;
+}
+button:hover {
+    background: #21496b;
+    color: white;
+}
